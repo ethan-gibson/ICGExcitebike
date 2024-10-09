@@ -56,7 +56,7 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _lightPower: 3
+    - _lightPower: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _RimlightColor: {r: 3.732132, g: 1.3227578, b: 0, a: 0}
